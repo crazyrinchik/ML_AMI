@@ -1,0 +1,1 @@
+This repo contains projects that were my homeworks during ML-1 course during 3rd year of Bachelor's degree. There are some implementations of basic ML entities like GD, logreg, linclass, trees, boosting. Also files contain finetuning and vizualization of metrics such as loss and accuracy (base).
